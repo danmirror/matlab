@@ -1,4 +1,4 @@
 # matlab
 > research matlab
-### author 
+### develop
 > <a href="https://me-danuandrean.github.io">Danu andrean</a>
